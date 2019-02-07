@@ -1,0 +1,4 @@
+﻿  Unsupervised.cpp
+c:\users\ss20180110002\source\repos\bellab_first_opencv\bellab_first_opencv\unsupervised.cpp(357): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+x64\Debug\Unsupervised.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  Bellab_First_OpenCV.vcxproj -> C:\Users\SS20180110002\source\repos\Bellab_First_OpenCV\x64\Debug\Bellab_First_OpenCV.exe
